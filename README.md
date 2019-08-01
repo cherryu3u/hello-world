@@ -1,3 +1,3 @@
 # hello-world
-first repository to get started
+first repository to get started.
 About to start Github the first time. Still exploring...
